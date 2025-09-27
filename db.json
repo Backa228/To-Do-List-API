@@ -1,0 +1,6 @@
+{
+  "tasks": [
+    { "id": 1, "text": "Ранкова зярадка", "completed": false },
+    { "id": 2, "text": "Вечірня зярадка", "completed": false }
+  ]
+}
